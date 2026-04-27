@@ -1,46 +1,27 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════╗
-     ║              HERO HEADER — WAVE + GLOW              ║
-     ╚══════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════
+     HERO HEADER
+════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,40:6d28d9,80:9b30ff,100:c084fc&height=230&section=header&text=Eka%20Ridhoni&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20Network%20Eng%20%E2%80%A2%20IoT%20Builder&descColor=e9d5ff&descSize=16&descAlignY=62&animation=twinkling" width="100%"/>
-
-<br/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=9B30FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Eka+Ridhoni+August+Firmansyah+%F0%9F%91%8B;Full-Stack+Developer+%40+Polda+Kalimantan+Selatan;React+%C2%B7+Node.js+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+Docker;Network+Engineer+%7C+IoT+%7C+Mikrotik;Building+systems+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,40:6d28d9,80:9b30ff,100:c084fc&height=230&section=header&text=Eka%20Ridhoni&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20Network%20Eng%20%E2%80%A2%20IoT%20Builder&descColor=e9d5ff&descSize=16&descAlignY=63&animation=twinkling" width="100%"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/eka-ridhoni-august-firmansyah18825/">
-  <img src="https://img.shields.io/badge/LinkedIn-Eka%20Ridhoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/e.ridhoni">
-  <img src="https://img.shields.io/badge/Instagram-%40e.ridhoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:ekaridhoni1202@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ekaridhoni1202%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/KuWeka">
-  <img src="https://img.shields.io/badge/GitHub-KuWeka-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=9B30FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Eka+Ridhoni+August+Firmansyah+%F0%9F%91%8B;Full-Stack+Developer+%40+Polda+Kalimantan+Selatan+%F0%9F%9B%A1%EF%B8%8F;React+%C2%B7+Node.js+%C2%B7+MySQL+%C2%B7+Redis+%C2%B7+Docker;Network+Engineer+%7C+IoT+%7C+Mikrotik;Building+systems+that+actually+work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/📍_Banjarbaru%2C_Kalimantan_Selatan-Indonesia-7C3AED?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎓_D4_Teknik_Rekayasa_Komputer_Jaringan-Politeknik_Negeri_Tanah_Laut-9B30FF?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💼_Magang-BidTIK_Polda_Kalsel-6D28D9?style=flat-square"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eka%20Ridhoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-ridhoni-august-firmansyah18825/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40e.ridhoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.ridhoni)
+[![Email](https://img.shields.io/badge/Email-ekaridhoni1202%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaridhoni1202@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KuWeka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuWeka)
 
-<br/><br/>
+<br/>
 
-> ### *"Code is not just syntax — it's a solution waiting to happen."* ⚡
+![Location](https://img.shields.io/badge/📍_Banjarbaru,_Kalimantan_Selatan-Indonesia-7C3AED?style=flat-square)
+![Education](https://img.shields.io/badge/🎓_D4_Teknik_Rekayasa_Komputer_Jaringan-PNLT-9B30FF?style=flat-square)
+![Status](https://img.shields.io/badge/🟢_Magang-BidTIK_Polda_Kalsel-6D28D9?style=flat-square)
 
 </div>
 
@@ -48,34 +29,76 @@
 
 ## 🧑‍💻 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="52%">
+
+**👤 Profile**
+
+| | |
+|:--|:--|
+| 📍 **Lokasi** | Banjarbaru, Kalimantan Selatan 🇮🇩 |
+| 🏫 **Kampus** | Politeknik Negeri Tanah Laut |
+| 📚 **Program** | D4 Teknologi Rekayasa Komputer Jaringan |
+| 💼 **Status** | 🟢 Magang @ BidTIK · Polda Kalsel |
+| ✉️ **Email** | ekaridhoni1202@gmail.com |
+
+  </td>
+  <td valign="top" width="48%">
+
+**📈 Academic Progress**
+
+```
+S1  ██████████░░░  3.41
+S2  ████████████░  3.60
+S3  █████████████  3.72
+S4  █████████████  3.76 ↑ 🏆
+```
+
+> _Always improving, never settling._
+
+  </td>
+  </tr>
+</table>
+
+**🎯 Focus Areas**
+
+<div align="center">
+
+![Web Dev](https://img.shields.io/badge/🌐_Web_Development-React_%7C_Node.js_%7C_PHP-6D28D9?style=for-the-badge)
+![Networking](https://img.shields.io/badge/🔗_Networking-Mikrotik_%7C_VLAN_%7C_Firewall-7C3AED?style=for-the-badge)
+![IoT](https://img.shields.io/badge/🌱_IoT_%26_Monitoring-Sensors_%7C_MQTT_%7C_Dashboard-8B5CF6?style=for-the-badge)
+
+</div>
+
+**💬 In Code**
+
 ```typescript
 const eka: Developer = {
   name      : "Eka Ridhoni August Firmansyah",
   username  : "KuWeka",
   role      : "Full-Stack Developer & Network Engineer",
-  location  : "Banjarbaru, Kalimantan Selatan 🇮🇩",
-  education : "D4 Teknologi Rekayasa Komputer Jaringan",
-  campus    : "Politeknik Negeri Tanah Laut",
-  gpa       : { S1: 3.41, S2: 3.60, S3: 3.72, S4: 3.76 },  // 📈 always improving
-  currently : "Magang @ BidTIK · Polda Kalimantan Selatan",
-  focus     : ["Web Development", "Networking", "IoT & Monitoring Systems"],
-  contact   : "ekaridhoni1202@gmail.com",
-  funFact   : "I debug best at midnight with lo-fi music 🎵☕",
+  currently : "Building IT Helpdesk System @ Polda Kalimantan Selatan 🛡️",
+  passion   : ["clean code", "real-world impact", "system observability"],
+  funFact   : "I debug best at midnight with lo-fi music 🎵 — coffee is my RAM ☕",
+  openTo    : ["collaboration", "internship", "project discussion"],
 };
 ```
 
+> 💡 *"Code is not just syntax — it's a solution waiting to happen."* ⚡
+
 ---
 
-## ⚡ Fun Facts & Personal Quote
+## ⚡ Fun Facts
 
 <div align="center">
 
-| 💡 | Fun Fact |
-|----|----------|
-| 🌙 | Paling produktif nulis kode pas tengah malam — malam = fokus mode ON |
-| ☕ | Kopi adalah bahan bakar utama, Redis adalah RAM, Git adalah mesin waktu |
+| | Fun Fact |
+|:---:|:---|
+| 🌙 | Paling produktif nulis kode pas tengah malam — dark mode + lo-fi = fokus penuh |
+| ☕ | Kopi = bahan bakar. Redis = RAM. Git = mesin waktu. Docker = dimensi lain |
 | 🌐 | Bisa konfigurasi Mikrotik firewall sambil ngoding React — multitasking level: jaringan |
-| 🌱 | Lagi mendalami observability: Prometheus + Grafana buat sistem yang bisa "ngomong" sendiri |
+| 🌱 | Mendalami observability: Prometheus + Grafana biar sistem bisa "laporan sendiri" |
 | 🛡️ | Bangga berkontribusi nyata buat sistem IT di lingkungan kepolisian Indonesia |
 
 </div>
@@ -106,7 +129,7 @@ const eka: Developer = {
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT_%2F_MQTT-6D28D9?style=for-the-badge&logo=mqtt&logoColor=white)
-![CCTV](https://img.shields.io/badge/CCTV_Config-4B0082?style=for-the-badge&logo=hikvision&logoColor=white)
+![CCTV](https://img.shields.io/badge/CCTV_Config-4B0082?style=for-the-badge&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -123,27 +146,45 @@ const eka: Developer = {
 
 <div align="center">
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-projectpolda-181717?style=for-the-badge&logo=github)](https://github.com/KuWeka/projectpolda)
+[![GitHub](https://img.shields.io/badge/GitHub-projectpolda-181717?style=for-the-badge&logo=github)](https://github.com/KuWeka/projectpolda)
 [![Stack](https://img.shields.io/badge/Stack-React_·_Node.js_·_MySQL_·_Redis_·_Docker-6D28D9?style=for-the-badge)](#)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Active_·_Production_Ready-22C55E?style=for-the-badge)](#)
 
 </div>
 
-> Platform helpdesk IT berbasis **monorepo** untuk Polda Kalimantan Selatan — dibangun production-grade dengan real-time chat, multi-role dashboard, observability penuh, dan CI/CD pipeline siap pakai.
+> Platform helpdesk IT berbasis **monorepo** untuk Polda Kalimantan Selatan — production-grade dengan real-time chat, multi-role dashboard, observability penuh, dan CI/CD pipeline siap pakai.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**✨ Core Features**
 
 | Fitur | Deskripsi |
-|-------|-----------|
-| 🎫 **Ticket Management** | Buat, assign, tracking tiket dengan dashboard monitoring real-time |
-| 💬 **Real-time Chat** | Komunikasi langsung user ↔ teknisi via Socket.IO |
-| 👥 **Multi-role Panel** | Dashboard terpisah: User · Teknisi · Admin |
-| 📊 **Observability** | Prometheus metrics + Winston logging + Grafana ready |
-| 🔐 **Enterprise Security** | JWT + Cookie auth, CSRF, rate limiting, Helmet.js |
-| 🐳 **Docker Ready** | Build & deploy siap container, staging & rollback scripts |
-| 🔄 **CI/CD Pipeline** | GitHub Actions: lint → test → build image → staging deploy |
+|:---|:---|
+| 🎫 **Ticket Management** | Buat, assign, tracking tiket real-time |
+| 💬 **Real-time Chat** | User ↔ Teknisi via Socket.IO |
+| 👥 **Multi-role Panel** | User · Teknisi · Admin |
+| 🔐 **Enterprise Security** | JWT, CSRF, rate limiting, Helmet.js |
+
+  </td>
+  <td width="50%" valign="top">
+
+**🔧 Technical Highlights**
+
+| | |
+|:---|:---|
+| 📊 **Observability** | Prometheus + Winston + Grafana |
+| 🐳 **Containerized** | Docker + staging scripts |
+| 🔄 **CI/CD** | GitHub Actions pipeline |
 | 📖 **API Docs** | Swagger UI terintegrasi |
 
-**Tech Stack:** `React 18` `Vite 7` `Tailwind CSS` `shadcn/ui` `Node.js 20` `Express` `MySQL 8` `Redis` `Socket.IO` `Docker` `JWT` `Prometheus` `GitHub Actions`
+  </td>
+  </tr>
+</table>
+
+**Stack:** `React 18` `Vite 7` `Tailwind CSS` `shadcn/ui` `Node.js 20` `Express` `MySQL 8` `Redis` `Socket.IO` `Docker` `JWT` `Prometheus` `GitHub Actions`
 
 ---
 
@@ -151,14 +192,14 @@ const eka: Developer = {
 
 <div align="center">
 
-[![Stack](https://img.shields.io/badge/Stack-PHP_·_CodeIgniter_4_·_MySQL_·_IoT-6D28D9?style=for-the-badge)](#)
-[![Durasi](https://img.shields.io/badge/Durasi-Sep_2025_–_Sekarang_(8_bln)-9B30FF?style=for-the-badge)](#)
+[![Stack](https://img.shields.io/badge/Stack-PHP_·_CodeIgniter_4_·_MySQL_·_IoT-7C3AED?style=for-the-badge)](#)
+[![Duration](https://img.shields.io/badge/Duration-Sep_2025_–_Sekarang-9B30FF?style=for-the-badge)](#)
 
 </div>
 
-> Sistem monitoring pertumbuhan tanaman berbasis web + sensor IoT. Pendataan siklus tanam (Semai → Peremajaan → Pendewasaan), notifikasi pengingat, dan visualisasi data pertumbuhan real-time.
+> Sistem monitoring pertumbuhan tanaman berbasis web + sensor IoT. Pendataan siklus tanam **(Semai → Peremajaan → Pendewasaan)**, notifikasi otomatis, dan visualisasi data real-time.
 
-**Tech Stack:** `PHP` `CodeIgniter 4` `MySQL` `IoT Sensors` `MQTT`
+**Stack:** `PHP` `CodeIgniter 4` `MySQL` `IoT Sensors` `MQTT`
 
 ---
 
@@ -166,14 +207,14 @@ const eka: Developer = {
 
 <div align="center">
 
-[![Stack](https://img.shields.io/badge/Stack-PHP_·_CodeIgniter_4_·_MySQL-7C3AED?style=for-the-badge)](#)
-[![Durasi](https://img.shields.io/badge/Durasi-Agu–Nov_2024_(4_bln)-8B5CF6?style=for-the-badge)](#)
+[![Stack](https://img.shields.io/badge/Stack-PHP_·_CodeIgniter_4_·_MySQL-8B5CF6?style=for-the-badge)](#)
+[![Duration](https://img.shields.io/badge/Duration-Agu–Nov_2024_(4_bln)-A78BFA?style=for-the-badge)](#)
 
 </div>
 
-> Aplikasi web MVC untuk pencatatan dan pemantauan pertumbuhan tanaman hidroponik. Konsep terstruktur dan scalable menggunakan CodeIgniter 4 + MySQL.
+> Aplikasi web MVC untuk pencatatan dan pemantauan pertumbuhan tanaman hidroponik. Sistem terstruktur dan scalable menggunakan CodeIgniter 4.
 
-**Tech Stack:** `PHP` `CodeIgniter 4` `MySQL` `MVC Architecture`
+**Stack:** `PHP` `CodeIgniter 4` `MySQL` `MVC Architecture`
 
 ---
 
@@ -181,9 +222,9 @@ const eka: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KuWeka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6D28D9&title_color=9B30FF&icon_color=C084FC&ring_color=6D28D9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuWeka&layout=compact&langs_count=8&theme=tokyonight&border_color=6D28D9&title_color=9B30FF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KuWeka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=6D28D9&title_color=9B30FF&icon_color=C084FC"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuWeka&layout=compact&langs_count=8&theme=tokyonight&border_color=6D28D9&title_color=9B30FF"/>
 
 </div>
 
@@ -210,7 +251,7 @@ const eka: Developer = {
 <div align="center">
 
 | Periode | Role | Tempat |
-|---------|------|--------|
+|:---:|:---|:---|
 | Jan 2026 – Sekarang | 🖥️ **Full-Stack Developer** — Sistem IT Helpdesk | Polda Kalimantan Selatan |
 | Sep 2025 – Sekarang | 🌱 **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
 | Nov 2025 | 📷 **CCTV Installation** — HiLook, Ezvis, Xiaomi | Rumah Warga |
@@ -225,9 +266,10 @@ const eka: Developer = {
 
 <div align="center">
 
-**Politeknik Negeri Tanah Laut** — D4 Teknologi Rekayasa Komputer Jaringan
+🏛️ **Politeknik Negeri Tanah Laut**
+D4 Teknologi Rekayasa Komputer Jaringan · `Agu 2023 – Agu 2027`
 
-`Agu 2023 – Agu 2027` &nbsp;|&nbsp; IPK: `S1: 3.41` `S2: 3.60` `S3: 3.72` `S4: 3.76` 📈
+`S1: 3.41` → `S2: 3.60` → `S3: 3.72` → `S4: 3.76` 📈
 
 </div>
 
@@ -237,14 +279,12 @@ const eka: Developer = {
 
 ### 🤝 Let's Connect & Build Something Great!
 
-*"The best way to predict the future is to build it."* — Alan Kay
+*"The best way to predict the future is to build it."*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-ridhoni-august-firmansyah18825/)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Follow_%40e.ridhoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.ridhoni)
-&nbsp;
 [![Email](https://img.shields.io/badge/Send_Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaridhoni1202@gmail.com)
 
 <br/>
