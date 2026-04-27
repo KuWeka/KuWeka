@@ -114,7 +114,7 @@
 | Periode | Role | Tempat |
 |---------|------|--------|
 | Jan 2026 – Sekarang | 🖥️ Full-Stack Developer — IT Helpdesk | Polda Kalimantan Selatan |
-| Sep 2025 – Sekarang | 🌱 IoT Researcher — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
+| Sep 2025 – Des 2025 | 🌱 IoT Researcher — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
 | Nov 2025 | 📷 CCTV Installation & Configuration | Rumah Warga |
 | Feb – Apr 2025 | 🌐 Network Engineer — Mikrotik Config | Politeknik Negeri Tanah Laut |
 | Agu – Nov 2024 | ⚙️ Web App Developer — Hidroponik System | Pondok Hidroponik |
