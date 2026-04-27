@@ -25,7 +25,6 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const eka = {
   name     : "Eka Ridhoni August Firmansyah",
   role     : "Full-Stack Developer & Network Engineer",
   location : "Banjarbaru, Kalimantan Selatan 🇮🇩",
@@ -34,7 +33,6 @@ const eka = {
   currently: "Magang @ BidTIK Polda Kalimantan Selatan",
   focus    : ["Web Development", "Networking", "IoT & Monitoring Systems"],
   funFact  : "I turn coffee into systems that actually work ☕",
-};
 ```
 
 ---
