@@ -64,16 +64,18 @@
 
 **💬 In Code**
 
-```typescript
-const eka: Developer = {
-  name    : "Eka Ridhoni A.F.",
-  role    : "Full-Stack Dev & Network Eng",
-  stack   : ["React", "Node.js", "MySQL",
-             "Redis", "Docker", "Mikrotik"],
-  passion : "clean code + real impact",
-  funFact : "Debug terbaik: tengah malam"
-            + " + lo-fi + ☕",
-};
+```json
+{
+  "name"       : "Eka Ridhoni August Firmansyah",
+  "alias"      : "KuWeka",
+  "role"       : "Full-Stack Dev & Network Engineer",
+  "location"   : "Banjarbaru, Kalimantan Selatan 🇮🇩",
+  "stack"      : ["React", "Node.js", "MySQL", "Redis", "Docker"],
+  "networking" : ["Mikrotik", "VLAN", "Firewall", "CCTV"],
+  "passion"    : "clean code + real-world impact 🚀",
+  "currently"  : "Building IT Helpdesk @ Polda Kalsel 🛡️",
+  "funFact"    : "Debug terbaik: tengah malam + lo-fi + ☕"
+}
 ```
 
   </td>
@@ -227,7 +229,7 @@ const eka: Developer = {
 | Periode | ⚡ | Role & Project | Tempat |
 |:---:|:---:|:---|:---|
 | Jan 2026 – Sekarang | 🖥️ | **Full-Stack Developer** — Sistem IT Helpdesk | Polda Kalimantan Selatan |
-| Sep 2025 – Sekarang | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
+| Sep 2025 – Des 2025 | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
 | Nov 2025 | 📷 | **CCTV Installation** — HiLook, Ezvis, Xiaomi | Rumah Warga |
 | Feb – Apr 2025 | 🌐 | **Network Engineer** — Mikrotik Firewall & VLAN | Politeknik Negeri Tanah Laut |
 | Agu – Nov 2024 | ⚙️ | **Web Developer** — Aplikasi Pendataan Hidroponik | Pondok Hidroponik |
