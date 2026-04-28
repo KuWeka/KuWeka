@@ -62,21 +62,16 @@
   </td>
   <td valign="top" width="45%">
 
-**💬 In Code**
+**💬 Siapa Eka?**
 
-```json
-{
-  "name"       : "Eka Ridhoni August Firmansyah",
-  "alias"      : "KuWeka",
-  "role"       : "Full-Stack Dev & Network Engineer",
-  "location"   : "Banjarbaru, Kalimantan Selatan 🇮🇩",
-  "stack"      : ["React", "Node.js", "MySQL", "Redis", "Docker"],
-  "networking" : ["Mikrotik", "VLAN", "Firewall", "CCTV"],
-  "passion"    : "clean code + real-world impact 🚀",
-  "currently"  : "Building IT Helpdesk @ Polda Kalsel 🛡️",
-  "funFact"    : "Debug terbaik: tengah malam + lo-fi + ☕"
-}
-```
+![Name](https://img.shields.io/badge/👤_Nama-Eka_Ridhoni_August_Firmansyah-6D28D9?style=flat-square)
+![Alias](https://img.shields.io/badge/🏷️_Alias-KuWeka-7C3AED?style=flat-square)
+![Role](https://img.shields.io/badge/💼_Role-Full--Stack_Dev_%26_Network_Eng-8B5CF6?style=flat-square)
+![Location](https://img.shields.io/badge/📍_Lokasi-Banjarbaru,_Kalsel_🇮🇩-9B30FF?style=flat-square)
+
+![Currently](https://img.shields.io/badge/🛡️_Currently-Building_IT_Helpdesk_@_Polda_Kalsel-22C55E?style=flat-square)
+![Passion](https://img.shields.io/badge/🚀_Passion-Clean_Code_+_Real--World_Impact-EF4444?style=flat-square)
+![FunFact](https://img.shields.io/badge/☕_Fun_Fact-Debug_terbaik%3A_tengah_malam_+_lo--fi-F59E0B?style=flat-square)
 
   </td>
   </tr>
@@ -229,7 +224,7 @@
 | Periode | ⚡ | Role & Project | Tempat |
 |:---:|:---:|:---|:---|
 | Jan 2026 – Sekarang | 🖥️ | **Full-Stack Developer** — Sistem IT Helpdesk | Polda Kalimantan Selatan |
-| Sep 2025 – Des 2025 | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
+| Sep 2025 – Sekarang | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
 | Nov 2025 | 📷 | **CCTV Installation** — HiLook, Ezvis, Xiaomi | Rumah Warga |
 | Feb – Apr 2025 | 🌐 | **Network Engineer** — Mikrotik Firewall & VLAN | Politeknik Negeri Tanah Laut |
 | Agu – Nov 2024 | ⚙️ | **Web Developer** — Aplikasi Pendataan Hidroponik | Pondok Hidroponik |
