@@ -30,7 +30,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40e.ridhoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.ridhoni)
 [![Email](https://img.shields.io/badge/Email-ekaridhoni1202%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaridhoni1202@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KuWeka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuWeka)
-[![Discord](https://img.shields.io/badge/Discord-me.weka-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/me.weka)
 
 <br/>
 
@@ -46,10 +45,6 @@
 
 ## 🧑‍💻 Tentang Saya
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
 **👤 Profil Singkat**
 
 | | |
@@ -60,23 +55,22 @@
 | 💼 **Status** | 🟢 Magang @ BidTIK · Polda Kalsel |
 | ✉️ **Email** | ekaridhoni1202@gmail.com |
 
-  </td>
-  <td valign="top" width="45%">
+<br/>
 
 **💬 Siapa Eka?**
 
-![Name](https://img.shields.io/badge/👤_Nama-Eka_Ridhoni_August_Firmansyah-6D28D9?style=flat-square)
-![Alias](https://img.shields.io/badge/🏷️_Alias-KuWeka-7C3AED?style=flat-square)
-![Role](https://img.shields.io/badge/💼_Role-Full--Stack_Dev_%26_Network_Eng-8B5CF6?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Lokasi-Banjarbaru,_Kalsel_🇮🇩-9B30FF?style=flat-square)
+<div align="center">
 
-![Currently](https://img.shields.io/badge/🛡️_Currently-Building_IT_Helpdesk_@_Polda_Kalsel-22C55E?style=flat-square)
-![Passion](https://img.shields.io/badge/🚀_Passion-Clean_Code_+_Real--World_Impact-EF4444?style=flat-square)
-![FunFact](https://img.shields.io/badge/☕_Fun_Fact-Debug_terbaik%3A_tengah_malam_+_lo--fi-F59E0B?style=flat-square)
+![Name](https://img.shields.io/badge/👤_Nama-Eka_Ridhoni_August_Firmansyah-6D28D9?style=for-the-badge)
+![Alias](https://img.shields.io/badge/🏷️_Alias-KuWeka-7C3AED?style=for-the-badge)
+![Role](https://img.shields.io/badge/💼_Role-Full--Stack_Dev_%26_Network_Eng-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Lokasi-Banjarbaru,_Kalsel-9B30FF?style=for-the-badge)
 
-  </td>
-  </tr>
-</table>
+![Currently](https://img.shields.io/badge/🛡️_Currently-Building_IT_Helpdesk_@_Polda_Kalsel-22C55E?style=for-the-badge)
+![Passion](https://img.shields.io/badge/🚀_Passion-Clean_Code_+_Real--World_Impact-EF4444?style=for-the-badge)
+![FunFact](https://img.shields.io/badge/☕_Fun_Fact-Debug_terbaik%3A_tengah_malam_+_lo--fi-F59E0B?style=for-the-badge)
+
+</div>
 
 **🎯 Focus Areas**
 
@@ -225,7 +219,7 @@
 | Periode | ⚡ | Role & Project | Tempat |
 |:---:|:---:|:---|:---|
 | Jan 2026 – Sekarang | 🖥️ | **Full-Stack Developer** — Sistem IT Helpdesk | Polda Kalimantan Selatan |
-| Sep 2025 – Des 2025 | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
+| Sep 2025 – Sekarang | 🌱 | **IoT Researcher** — Monitoring Hidroponik | Politeknik Negeri Tanah Laut |
 | Nov 2025 | 📷 | **CCTV Installation** — HiLook, Ezvis, Xiaomi | Rumah Warga |
 | Feb – Apr 2025 | 🌐 | **Network Engineer** — Mikrotik Firewall & VLAN | Politeknik Negeri Tanah Laut |
 | Agu – Nov 2024 | ⚙️ | **Web Developer** — Aplikasi Pendataan Hidroponik | Pondok Hidroponik |
