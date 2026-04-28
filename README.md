@@ -30,6 +30,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40e.ridhoni-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.ridhoni)
 [![Email](https://img.shields.io/badge/Email-ekaridhoni1202%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekaridhoni1202@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KuWeka-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KuWeka)
+[![Discord](https://img.shields.io/badge/Discord-me.weka-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/me.weka)
 
 <br/>
 
