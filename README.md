@@ -4,7 +4,7 @@
      HERO HEADER
 ════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,40:6d28d9,80:9b30ff,100:c084fc&height=230&section=header&text=Eka%20Ridhoni&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20Network%20Eng%20%E2%80%A2%20IoT%20Builder&descColor=e9d5ff&descSize=16&descAlignY=63&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,40:6d28d9,80:9b30ff,100:c084fc&height=230&section=header&text=Eka%20Ridhoni%20August%20Firmansyah&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Dev%20%E2%80%A2%20Network%20Eng%20%E2%80%A2%20IoT%20Builder&descColor=e9d5ff&descSize=16&descAlignY=63&animation=twinkling" width="100%"/>
 
 <br/>
 
